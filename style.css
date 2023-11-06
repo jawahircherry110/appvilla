@@ -1,0 +1,92 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+
+
+
+.main{
+background-color: #FF597B;
+height: 100vh;
+}
+.row{
+    --bs-gutter-x: 0 !important;
+}
+.fa-brands{
+    color: #FF597B;
+}
+
+.button{
+    background-color: #FF597B;
+}
+.icon-1{
+    color: #1c0505;
+}
+.heading-3{
+   
+    color: #FF597B;
+}
+.box1{
+    text-align: center;
+}
+
+.fa-solid{
+    font-size: 30px;
+    background-color: #FF597B;
+    width: 60px;
+    /* height: 60px; */
+    border-radius: 3px;
+    color: white;
+    font-size: 30px;
+    text-align: center;
+
+}
+.icon-3{
+    margin-top: 20%;
+}
+
+.btn2{
+    background-color: #FF597B;
+    border-radius: 4px;
+    font-size: 25px;
+}
+.box4 img{
+width: 80%;
+
+}
+.box-5{
+    background-color: #FF597B;
+    
+}
+h4{
+    color: #FF597B;
+    
+}
+.box6{
+    background-color: #FF597B;
+    
+   background-size: cover;
+}
+.aryo-img{
+    border-radius: 50%;
+    height: 50px;
+    width: 50px;
+}
+h5{
+    color: #FF597B;
+}
+.plus{
+    margin-left: 70%;
+}
+.para{
+    background-color: #FF597B;
+}
+.box7{
+    background-color: aliceblue;
+}
+
+
+.icon{
+    background-color: white;
+    
+}
